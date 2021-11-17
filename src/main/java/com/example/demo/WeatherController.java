@@ -20,5 +20,7 @@ public class WeatherController {
             weather.setIcon("weather-sunny");
             return weather;
         }).get();
+
+        
     }
 }
